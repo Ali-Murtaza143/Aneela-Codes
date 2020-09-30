@@ -1,23 +1,36 @@
 ## Hello 👋
 I'm Aneela, a Front-End Developer
-Since 2020 I've living and breathing web development and creating modern and user friendly interfaces. I've had the chance to immerce myself in many different works and projects, helping to make internet a beautiful place.
-I'm always trying to learn something new. I lose track of time when I'm coding, listening to podcasts.
+&nbsp; Since 2020 I've living and breathing web development and creating modern and user friendly interfaces.
+&nbsp;I've had the chance to immerce myself in many different works and projects, helping to make internet a beautiful place.
+&nbsp; I'm always trying to learn something new. I lose track of time when I'm coding, listening to podcasts.
 
+<h3> 👨🏻‍💻 About Me </h3>
 
-    muesli/duf - Disk Usage/Free Utility
-    muesli/jigo - A set of #golang jigs
-    muesli/sasquatch - A simple data encryption library
-    muesli/marky - Generate markdown programmatically
-    muesli/readme-scribe - A GitHub Action that automatically generates & updates markdown content (like your README.md)
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🎓 &nbsp; Studying Computer Science and Mathematics at University of Massachusetts Amherst.
+- 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
+- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
+- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
 
+<h3>🛠 Tech Stack</h3>
 
-- 🔭 I’m currently working on
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-Connect me with:
+- 💻 &nbsp; Python | Java | C++ | R (Statistics) | MATLAB
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Node.js | ReactJS
+- 🛢 &nbsp; MySQL | MongoDB
+- 🔧 &nbsp; Git | Markdown | Selenium | Tidyverse
+- 🖥 &nbsp; Illustrator| Photoshop | InDesign
+
+<br/>
+
+[![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AVS1508&show_icons=true)](https://github.com/AVS1508)
+
+<h3> 🤝🏻 Connect with Me </h3>
+
+<p align="center">
+<a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/AVS1508/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/adityavs_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
+<a href="mailto:avsingh@umass.edu"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+</p>
+
+⭐️ From [AVS1508](https://github.com/AVS1508)
