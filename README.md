@@ -1,24 +1,20 @@
 ## Hello 👋
-I'm Aneela, a Front-End Developer
-&nbsp; Since 2020 I've living and breathing web development and creating modern and user friendly interfaces.
-&nbsp;I've had the chance to immerce myself in many different works and projects, helping to make internet a beautiful place.
-&nbsp; I'm always trying to learn something new. I lose track of time when I'm coding, listening to podcasts.
+I'm Aneela, a Front-End Developer. Since 2020 I've living and breathing web development and creating modern and user friendly interfaces.
+I've had the chance to immerce myself in many different works and projects, helping to make internet a beautiful place.
+I'm always trying to learn something new. I lose track of time when I'm coding, listening to podcasts.
 
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science and Mathematics at University of Massachusetts Amherst.
+- 🎓 &nbsp; Studying Computer Systems at Mehran University of Engineering and Technology, Jamshoro.
 - 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
 - ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
  &nbsp;
 **Languages and Tools:**  
 
-<code><img height="20" src="https://pytorch.org/assets/images/pytorch-logo.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
@@ -27,8 +23,8 @@ I'm Aneela, a Front-End Developer
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 ## My Portfolio and Work 👀 -
-### 1.[Personal Web](http://prathameshgiri.me/) 👦 </br>
-### 2.[Portfolio](https://aneela-codes.github.io/Personal-Portfolio/) ✨
+### 1.[Personal Web]() 👦 </br>
+### 2.[Portfolio](: https://aneela-codes.github.io/Portfolio-Aneela-Oad/) ✨
 </br>
 
 <h3>🛠 Tech Stack</h3>
@@ -46,10 +42,9 @@ I'm Aneela, a Front-End Developer
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/AVS1508/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/adityavs_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:avsingh@umass.edu"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href=": https://aneela-codes.github.io/Portfolio-Aneela-Oad/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/aneela-oad-0976141a3/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/aneela.reiko/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
 </p>
 
 📊 **This week I spent my time on**
